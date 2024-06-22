@@ -30,7 +30,7 @@ Throughout this challenge, you will:
 
 - **Consistency:** Code every day, even if it's just for 30 minutes.
 - **Learning:** Focus on understanding concepts rather than just memorizing solutions.
-- **Sharing:** Share your progress on social media using the hashtag **#100DaysOfCode** to inspire and connect with others.
+- **Check:** QuestionOfTheDay.md for daily leetcode question.
 
 ## 🚀 Let's Get Started!
 
