@@ -1,6 +1,6 @@
-# 100 Days of Code
+# 100 Days Of Code
 
-Welcome to the **100 Days of Code** challenge! This repository is dedicated to helping you master Data Structures and Algorithms (DSA) and programming through consistent daily practice and projects or or exploring any area of coding.
+Welcome to the **100 Days Of Code** challenge! This repository is dedicated to helping you master Data Structures and Algorithms (DSA) and programming through consistent daily practice and projects or exploring any area of coding.
 
 ## 📅 Challenge Overview
 
